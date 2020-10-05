@@ -10,3 +10,6 @@ You can sort items by match, prices, sale, brand etc.<br>
 ### This Repository:
 Some chosen code snippets from the application code.<br>
 You can see it in action: <a href="https://play.google.com/store/apps/details?id=com.eitan.shopik">Shopik App</a>
+
+### Any Questions ?
+Feel free to contact me about anything: <a href="www.eitangoren.com"> My Website </a>
