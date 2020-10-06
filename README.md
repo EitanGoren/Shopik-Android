@@ -1,5 +1,5 @@
 # Shopik-App
-## The tinder of fashion.
+## The Tinder of Fashion.
 
 ### About the app:
 Explore thousands of fashion items and save your favorite ones.<br>
