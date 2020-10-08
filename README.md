@@ -16,7 +16,6 @@ You can see it in action: <a href="https://play.google.com/store/apps/details?id
 ### Screenshots
 
 <img alt="blah" src="images/7.png" width="220" height="420"></img>
-<img alt="blah" src="images/10.png" width="220" height="420"></img>
 <img alt="blah" src="images/3.png" width="220" height="420"></img>
 <img alt="blah" src="images/4.png" width="220" height="420"></img>
 
