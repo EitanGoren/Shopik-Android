@@ -1,6 +1,8 @@
 # Shopik-App <img alt="blah" src="images/ic_shopik2.png" width="50" height="50"></img>
 ## The Tinder of Fashion.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/eitangoren/Shopik-Android)
+
 ### About the app
 Explore thousands of fashion items and save your favorite ones.<br>
 The items are up to date, containing real-time prices, discounts & images.<br>
